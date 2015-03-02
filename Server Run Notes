@@ -1,0 +1,5 @@
+To run the Rails Server and preview it in Nitrous.io you need to limit the ip range to 0.0.0.0 when typing the command in the terminal. To do this you only have to type:
+
+   rails server -b 0.0.0.0
+ 
+This will limit the server to ip 0.0.0.0 and now you will be able to preview it in Nitrous.
