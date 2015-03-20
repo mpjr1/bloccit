@@ -12,7 +12,7 @@ Things you may want to cover:
 
 * Ruby version
 
-* System dependenciess
+* System dependencies
 
 * Configuration
 
